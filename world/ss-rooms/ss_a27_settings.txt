@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: None
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0
+RandomItemDensity: 0.2042031
+RandomItemSpearChance: 0.05500163
+Palette: 23
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.156598-20.39532-70.01952, Darkness-0.3015966-270.6508-20.39531, 
+PlacedObjects: SuperStructureFuses><88.52533><228.7647><67.21329~126.9757, SuperStructureFuses><89.28427><509.8058><265.7102~66.14624, LightSource><283.8921><389.2806><1~Environment~-72.03513~67.98438~-278.6937~198.6572~0~0~None~0~0, LightSource><506.5543><347.3765><1~Environment~6.103516E-05~97.332~25.45471~55.65411~0~0~None~0~0, LightFixture><349.2635><59.77437><RedLight~-317.2427~-56.95626~65, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><429.1912><586.9002><0.3272081><0.9478006, SPOT><SO_SFX-Data3.ogg><599.949><476.4998><0.3202024><1><108.2163><279.3427><-22.01544><84.16962><0><0.1463988, OMNI><SO_SFX-DataTrans2.ogg><599.8115><586.7023><0.2042031><0.9060419, SPOT><so_sfx-datastream.ogg><429.9708><476.2062><0.4246004><1><213.0975><547.3939><-105.7897><-110.0585><0><0.2043991, 
+FadePalette: 17, 0.4581952
