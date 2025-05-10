@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0
+RandomItemDensity: 0.1056044
+RandomItemSpearChance: 0.05500163
+Palette: 14
+EffectColorA: 18
+EffectColorB: 12
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.1449983-20.39529-74.82188, 
+PlacedObjects: LightFixture><770.4104><35.46191><RedSubmersible~205.1453~264.267~57, LightFixture><503.2946><631.6431><RedLight~-202.5202~32.68744~91, LightSource><531.3128><45.35334><1~Environment~-0.5335693~157.6281~-224.8008~176.7799~0~0~None~0~0, LightFixture><1026.346><622.0392><RedLight~-0.2880859~60.96796~52, PlayerPushback><65.54715><476.4341><116.857~0.7515564, PlayerPushback><73.75763><177.0378><101.3828~-0.3156433, 
+AmbientSounds: SPOT><AM_WIN-StrongWnd2.ogg><120.4889><453.9341><0.2680027><1.709911><717.5053><721.6598><-349.1085><-211.4413><0><0.4479961, OMNI><AM_IND-SuperStructure.ogg><428.4997><586.5245><0.2042034><1, 
+FadePalette: 10, 0.7869481

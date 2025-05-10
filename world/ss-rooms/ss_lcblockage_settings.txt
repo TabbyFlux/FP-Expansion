@@ -1,0 +1,8 @@
+Template: SS_SettingsTemplate_Lympathic
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0.9239131
+Effects: Fog-0.4456522-276.5914-21.34844, SilenceWater-1-276.5203-69.48594, 
+PlacedObjects: LightFixture><1449.401><609.3436><RedSubmersible~22.12238~-72.96429~97, LightFixture><584.7386><436.9539><RedSubmersible~11.45099~21.48209~60, MSArteryPush><408.6489><94.5405><0.5336304~132.5492, MSArteryPush><113.8828><93.79506><-1.0672~132.5492, MSArteryPush><709.0506><95.19745><-0.5336304~133.0828, 
+AmbientSounds: OMNI><SO_WAT-ProperDrips.ogg><825.2321><529.5825><0.5><1, SPOT><SO_NAT-WindTunnel.ogg><36.58965><474.5022><0.3152174><1.391304><385.7075><-39.44542><66.64465><243.6447><0><0.4586958, SPOT><SO_IND-Turbine.ogg><212.4229><475.0386><0.5><1><900.9842><314.4682><86.64466><-89.35535><0><0.1869567, 
+FadePalette: 17, 0.1956522, 0.1956522

@@ -1,0 +1,8 @@
+Template: SS_SettingsTemplate_Lympathic
+Clouds: 1
+Grime: 0
+EffectColorA: 18
+Effects: BkgOnlyLightning-1-270.9328-70.97266, SSSwarmers-0.3095444-268.0711-119.9687, 
+PlacedObjects: LightFixture><1891.217><348.7784><RedLight~247.8331~205.5719~0, WallMycelia><2194.928><485.1697><26~162, WallMycelia><1465.087><330.866><0~100, WallMycelia><1850.055><403.2061><0~100, WallMycelia><970.4927><345.2112><0~100, 
+AmbientSounds: SPOT><AM_RAIN-Rumbles.ogg><71.99654><481.5139><0.326087><1><2198.207><646.5017><-447.3553><-281.3553><0><1, SPOT><SO_SFX-Kepler.ogg><246.489><482.0422><0.1847826><1.04176><2202.467><643.4886><-227.3553><-290.3553><0><0.4804349, SPOT><SO_SFX-BlackWidow2.ogg><75.92406><367.5184><0.4456522><0.7065217><1536.425><240.6856><104.6447><-72.35535><0><0.3934784, 
+FadePalette: 17, 0.4130435, 0.4130435

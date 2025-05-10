@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 1
+Grime: 0.02319999
+BkgDroneVolume: 0
+Palette: 25
+EffectColorA: 18
+EffectColorB: 12
+Effects: ZeroG-1-9.32811-5.592968, CorruptionSpores-0.2029976-259.05-5.059372, ZeroGSpecks-0.3073966-259.05-55.75078, Darkness-0.1043986-9.861694-55.75078, SilenceWater-1-9.86171-105.375, 
+PlacedObjects: LightFixture><557.0781><349.6534><RedSubmersible~96.81274~74.82364~33, LightFixture><313.3096><1103.952><RedSubmersible~-312.6795~101~100, Corruption><786.5808><1153.107><2~68, CorruptionTube><531.7049><389.1948><-191~478, Corruption><553.3438><384.8749><-78~39, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><428.4349><587.0784><0.2692082><1, OMNI><SO_IND-NoiseMech.ogg><598.3764><587.5839><0.1288041><1, OMNI><SO_SFX-Drowning.ogg><768.0705><587.4789><0.3028021><1, OMNI><so_sfx-heartbeat2.ogg><428.1048><517.2963><0.1068109><1, 
+FadePalette: 17, 0.584808, 0.4224097

@@ -1,0 +1,9 @@
+Template: SS_SettingsTemplate_Lympathic
+RainIntensity: 0
+RumbleIntensity: 0
+RandomItemDensity: 0.2042037
+RandomItemSpearChance: 0.101401
+Effects: Fog-0.6630435-275.5281-19.07965, SilenceWater-1-275.4531-69.48593, 
+PlacedObjects: LightFixture><952.1104><1812.52><RedSubmersible~-105.8545~211.8203~72, WallMycelia><332.0194><1508.593><0~79, WallMycelia><605.3761><1523.656><0~100, CoralNeuron><395.7671><1539.901><2~136, WallMycelia><352.648><320.1154><0~100, WallMycelia><520.5349><149.447><0~100, WallMycelia><343.6802><845.3333><0~100, LightFixture><288.6992><1021.053><RedSubmersible~36.52988~106.3235~42, CoralNeuron><419.4804><873.9487><-32~123, WallMycelia><123.1939><130.9644><0~100, SteamPipe><-26.6814><1018.584><-56.69141~-75.96014, SteamPipe><-14.21362><955.4674><-23.40703~-77.22891, SteamPipe><154.7886><143.4081><-30.47815~127.9164, SteamPipe><-9.611206><135.6662><23.40704~90.09845, LightFixture><492.0048><61.04761><RedSubmersible~111.2329~310.6898~75, 
+AmbientSounds: SPOT><SO_SFX-BlackWidow2.ogg><51.50838><466.1841><0.5><0.6086956><429.2225><1606.903><-131.3553><143.6447><0><0.1869567, SPOT><SO_SFX-BlackWidow2.ogg><227.8969><466.9981><0.5326087><0.6282609><404.2316><825.312><-107.3553><169.6447><0><0.2086958, SPOT><Weird Deep Hole.wav><53.6472><354.8862><0.5652174><1.176087><-102.06><1369.188><251.6447><-71.35535><0><0.1978262, 
+FadePalette: 17, 0.2717391, 0.2608696, 0.25

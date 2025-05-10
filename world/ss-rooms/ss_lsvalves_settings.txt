@@ -1,0 +1,13 @@
+Template: SS_SettingsTemplate_Lympathic
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+BkgDroneVolume: 0
+RandomItemDensity: 0.1056048
+RandomItemSpearChance: 0.05500163
+EffectColorA: 19
+EffectColorB: 12
+Effects: SilenceWater-1-270.1172-69.48593, 
+PlacedObjects: LightSource><477.4335><2039.078><0.3284315~EffectColor1~-621~-542~331.1645~33.15869~0~0~None~0~0, LightFixture><406.9611><728.2327><RedSubmersible~170.9955~-118.4973~82, WallMycelia><468.5333><1842.962><19~141, LightFixture><517.5965><130.9158><RedSubmersible~-166.7693~243.9906~85, LightFixture><479.5645><1259.888><RedSubmersible~-255.8795~39.62421~93, 
+AmbientSounds: SPOT><AM_IND-Midsex01.ogg><22.3103><488.1051><0.3666017><0.5302055><542.8635><1979.307><-271.2038><-293.0811><0><0.3841971, SPOT><AM_IND-DeepHum.ogg><192.6742><488.6896><0.2796034><0.8016418><154.5547><1812.876><157.272><-110.5921><0><0.1869991, 
+FadePalette: 17, 0.4071586, 0.3607592, 0.3252291

@@ -1,0 +1,7 @@
+Template: SS_SettingsTemplate_Lympathic
+BkgDroneVolume: 0
+EffectColorA: 18
+EffectColorB: 12
+PlacedObjects: LightFixture><514.9471><495.7839><RedLight~40.79865~46.56091~86, 
+AmbientSounds: OMNI><SO_SFX-Heartbeat2.ogg><831.0783><606.3878><0><0.1, OMNI><SO_IND-NoiseMech.ogg><656.1524><606.7281><0><0.1, 
+FadePalette: 10, 0.8060208

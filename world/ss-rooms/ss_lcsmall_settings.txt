@@ -1,0 +1,10 @@
+Template: SS_SettingsTemplate_Lympathic
+DangerType: Flood
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0.326002
+BkgDroneVolume: 0
+Effects: SilenceWater-1-270.6508-69.48595, WaterFluxMinLevel-0.04639933-19.86172-121.7781, WaterFluxMaxLevel-1-269.5836-121.2445, WaterFluxFrequency-1-262.1133-298.9313, WaterFluxMinDelay-0.01739966-789.8375-645.2336, WaterFluxMaxDelay-0.02319998-788.632-591.2023, WaterFluxSpeed-0.7017922-788.2368-536.3805, WaterLights-1-669.2453-344.8203, 
+PlacedObjects: LightFixture><824.8052><600.3386><RedSubmersible~52.53784~-5.197632~91, SuperStructureFuses><470.1991><368.7791><64.54535~85.88904, LightFixture><638.1221><95.30527><RedSubmersible~171.5291~27.88516~74, LightSource><122.9863><443.4308><0.6230044~Environment~-2.134369~218.9915~-294.1679~73.2627~0~0~None~0~0, CGDrySpot><-99.81345><171.1543><14.0914~20.11868~462.8438^542.8828~False~None, 
+AmbientSounds: SPOT><SO_SFX-DataTrans.ogg><118.251><498.1194><0.2854025><0.8225218><496.8682><406.6335><-85.51318><5.731415><0><0.2159988, SPOT><so_ind-hvac.ogg><288.8228><498.4113><0.5><1><692.5189><387.7159><-87.64746><-102.5881><0><0.2043988, 
+FadePalette: 17, 0.2435971

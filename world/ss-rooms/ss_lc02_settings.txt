@@ -1,0 +1,9 @@
+Template: SS_SettingsTemplate_Lympathic
+DangerType: Flood
+RainIntensity: 0
+RumbleIntensity: 0
+BkgDroneVolume: 0
+Effects: SilenceWater-1-271.9328-73.57342, SSSwarmers-0.7277003-18.94214-128.7473, WaterFluxFrequency-1-272.2516-127.4698, WaterFluxMinLevel-0.02899966-665.3323-630.1151, WaterFluxMaxLevel-0.4098617-665.688-574.2656, WaterFluxSpeed-1-672.0912-399.2468, WaterFluxMinDelay-0.0116-667.4666-516.9933, WaterFluxMaxDelay-0.02900032-669.601-457.5865, 
+PlacedObjects: LightFixture><857.1382><634.9103><RedLight~17.32051~-10~48, WallMycelia><121.3918><636.6411><0~100, WallMycelia><488.5951><93.41818><0~100, WallMycelia><506.676><617.6458><0~100, LightSource><71.82452><600.1212><1~Environment~149.9398~-2.449951~-199.7219~-197.8029~0~0~None~0~0, CGDrySpot><-202.6302><301.6806><100~50~1365.684^78.65625~True~None, 
+AmbientSounds: SPOT><SO_IND-Survey.ogg><369.059><491.1909><0.7391304><0.3347826><618.6242><-27.59886><-316.3553><144.6447><0><0.08913057, SPOT><SO_IND-Turbine.ogg><194.7862><491.0345><0.3695652><1><-38.18306><423.1192><156.6447><-68.35535><0><0.578261, SPOT><SO_SFX-Pi.ogg><19.36116><491.3777><0.5><1><529.1868><609.8978><-20.35535><-145.3553><0><0.5565219, OMNI><SO_WAT-ProperDrips.ogg><826.4595><532.5959><0.5><1, 
+FadePalette: 17, 0.2173913

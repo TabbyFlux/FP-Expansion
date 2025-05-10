@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: None
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0
+RandomItemDensity: 0.2042037
+RandomItemSpearChance: 0.05500196
+Palette: 25
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.1035413-21-73, Bloom-0.2065645-274.3265-18.67657, 
+PlacedObjects: LightFixture><177.0796><239.9308><RedLight~-145.9592~-79.90079~29, SteamPipe><828.0542><613.9288><9.071167~63.7157, SteamPipe><390.077><619.6234><-6.403137~63.18195, SteamPipe><628.8711><579.8302><4.268799~63.71564, LightSource><510.9219><503.1761><1~Environment~80.03906~127.7468~-114.3469~-127.9022~0~0~None~0~0, LightSource><808.7596><370.1589><1~Environment~-134.4656~-16.32343~-12.43036~27.9072~0~0~None~0~0, LightFixture><209.4313><553.4947><RedLight~-212.6584~-82.03513~42, 
+AmbientSounds: OMNI><am_ind-superstructure.ogg><351.6959><67.88969><0.4026065><0.8851618, OMNI><so_sfx-drowning.ogg><538.022><67.35385><0.4072013><0.9269218, OMNI><mech multiactive highpass.wav><721.5992><66.22354><0.2042031><1, SPOT><am_ind-welder.ogg><576.3406><609.3595><0.2448034><1><605.9876><648.3274><-206.639><-116.4616><0><0.2043994, SPOT><mech basic.wav><799.945><294.8053><0.2042037><0.7285625><727.142><220.1179><-151.6788><135.3947><0><0.1753991, SPOT><am_ind-electrichum01.ogg><826.6599><567.41><0.2042037><1.06264><824.8247><549.8171><-116.9952><-87.64749><0><0.1231988, 
+FadePalette: 10, 0.504594

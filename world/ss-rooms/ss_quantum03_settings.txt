@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: None
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0
+RandomItemDensity: 0.1056051
+RandomItemSpearChance: 0.0550013
+Palette: 23
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.1043988-20.92889-70.01952, Bloom-0.4026071-270.1172-20.39531, 
+PlacedObjects: SuperStructureFuses><587.8817><387.5875><107.2328~66.14609, SuperStructureFuses><288.5781><169.3578><65.61249~143.5172, LightFixture><305.7129><445.5913><ZapCoilLight~-263.3498~63.10233~20, LightSource><491.2429><68.59138><1~Environment~0~128.2805~291.1843~-27.05291~0~0~None~0~0, LightSource><619.6014><582.7774><1~Environment~-79.50555~-109.1687~103.893~-43.59436~0~0~None~0~0, 
+AmbientSounds: OMNI><am_ind-superstructure.ogg><426.399><586.0092><0.3098078><0.8851618, OMNI><so_sfx-drowning.ogg><596.7173><586.5406><0.3608014><0.9269218, SPOT><so_sfx-data3.ogg><425.5364><473.4902><0.3086017><1><314.3145><233.3886><83.63611><-76.97562><0><0.2043988, SPOT><so_sfx-data1.ogg><595.2247><473.8593><0.3040082><0.3318461><643.0138><418.3813><-76.97565><-57.76633><0><0.3087981, SPOT><mech multiactive highpass.wav><765.752><473.5204><0.2042031><1><504.0566><675.7681><-103.6554><-99.38666><0><0.1579995, 
+FadePalette: 17, 0.4001952

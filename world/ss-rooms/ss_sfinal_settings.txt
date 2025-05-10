@@ -1,0 +1,6 @@
+Template: SS_SettingsTemplate_Lympathic
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0
+AmbientSounds: SPOT><SO_SFX-Kepler.ogg><125.3785><470.9376><0.1346051><1><322.5738><350.6377><-134.6038><-154.8804><0><0.2391981, 
+FadePalette: 10, 0.5950747

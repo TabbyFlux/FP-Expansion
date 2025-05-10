@@ -1,0 +1,10 @@
+Template: SS_SettingsTemplate_Lympathic
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+RandomItemDensity: 0.2042034
+RandomItemSpearChance: 0.1072013
+Effects: ZeroGSpecks-0.1086956-18.8078-72.06718, SSSwarmers-0.25-270.5297-69.1664, 
+PlacedObjects: ExitSymbolHidden><247.288><113.5909><, LightFixture><293.7747><399.0515><RedSubmersible~-441.0365~145.2759~100, WallMycelia><789.2747><353.5651><0~100, WallMycelia><796.2379><578.9521><0~100, WallMycelia><322.4491><413.7494><34~147, WallMycelia><596.1583><102.9279><0~100, CoralNeuron><468.8665><250.7669><286~0, CoralNeuron><455.3896><510.6754><291~-3, 
+AmbientSounds: SPOT><SO_IND-Turbine.ogg><248.5997><496.7526><0.5><1><339.4185><30.56755><-148.3553><76.64466><0><0.2413045, OMNI><SO_SFX-Celia.ogg><485.4722><533.3044><0.2282609><0.7456522, SPOT><SO_SFX-BlackWidow2.ogg><74.1617><495.4899><0.5760869><0.276087><-9.57782><205.821><201.6447><110.6447><0><0.7630436, OMNI><SO_WAT-ProperDrips.ogg><656.4093><532.7612><0.3586957><1, OMNI><SO_WAT-DripTap.ogg><830.3604><534.85><0.6739131><0.8630434, 
+FadePalette: 17, 0.2608696

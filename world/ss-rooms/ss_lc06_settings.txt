@@ -1,0 +1,11 @@
+Template: SS_SettingsTemplate_Lympathic
+DangerType: Flood
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0.07608695
+BkgDroneVolume: 0
+EffectColorB: 21
+Effects: SilenceWater-0.6630435-270.6563-69.49844, WaterFluxMinLevel-0.05219949-19.32813-118.9323, WaterFluxMaxLevel-0.4871939-273.3188-120.7109, WaterFluxFrequency-1-269.4057-299.287, WaterFluxMinDelay-0.01159933-789.1261-644.7001, WaterFluxMaxDelay-0.0251339-790.1932-590.2734, WaterFluxSpeed-0.4098617-791.6161-532.6453, 
+PlacedObjects: LightFixture><821.8615><2396.79><RedLight~175.2642~-24.94061~0, LightFixture><634.0766><1543.85><RedLight~427.6541~181.0266~55, LightFixture><815.8774><898.6542><RedSubmersible~158.7228~120.1968~87, LightFixture><322.6404><137.8958><RedSubmersible~187.537~-31.87735~0, LightFixture><1015.141><419.892><RedSubmersible~67.83215~84.16879~0, SuperStructureFuses><853.5713><993.3716><64~75, Filter><319.4309><159.4867><0~100~100.7043~35.07622~White|Yellow|Red|Rivulet|Artificer|Spear|Gourmand, SteamPipe><301.1126><2223.834><-34.01173~-49.35156, SteamPipe><367.0424><2187.691><20.33981~48.75073, SteamPipe><607.0724><2041.813><-49.68359~-41.34764, SteamPipe><693.9464><2159.192><38.47815~55.14999, SteamPipe><630.2028><2157.571><-43.34766~21.00778, SteamPipe><754.8294><2068.895><34.87732~-64.28438, SteamPipe><892.7054><2268.797><32.14215~60.6203, SteamPipe><949.6759><2246.05><-24.54138~-52.68362, CGDrySpot><8.761845><1294.86><57.8461~125.2367~1367.819^113.8735~True~None, 
+AmbientSounds: OMNI><SO_WAT-RunningWater.ogg><664.9178><531.4694><0.1413043><0.4326087, OMNI><SO_WAT-TubWater.ogg><494.9658><531.546><0.173913><0.3347826, 
+FadePalette: 17, 0.2934783, 0.3043478, 0.3043478, 0.3043478

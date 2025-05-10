@@ -1,0 +1,14 @@
+Template: SS_SettingsTemplate_Lympathic
+DangerType: Flood
+CeilingDrips: 0.1086956
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 1
+BkgDroneVolume: 0
+RandomItemDensity: 0.2042034
+RandomItemSpearChance: 0.05500163
+EffectColorA: 18
+Effects: ZeroG-1-10.59688-18.79843, Fog-0-9.79454-73.97267, SilenceWater-1-266.336-71.97266, ZeroGSpecks-0.1304348-265.6601-19.30469, WaterFluxMinLevel-0.05219949-8.65625-123.9125, WaterFluxMaxLevel-0.4838061-265.8484-124.9797, WaterFluxFrequency-1-260.5125-295.7297, WaterFluxMinDelay-0.01159999-790.9047-644.1664, WaterFluxMaxDelay-0.02319931-790.9047-591.8743, WaterFluxSpeed-1-790.3712-535.8469, 
+PlacedObjects: LightFixture><1740.829><19.68359><RedSubmersible~34.39557~376.8554~1, LightFixture><673.9457><-1.458618><RedSubmersible~-284.1605~-44.68359~53, LightFixture><2452.197><257.7595><RedSubmersible~95.75879~233.8524~23, CGDrySpot><-201.6035><326.6241><30.63281~-127.1532~3320.771^170.968~True~None, MSArteryPush><730.9441><191.5244><-7.470337~-52.60783, MSArteryPush><920.814><201.7245><-60.82971~-0.8492126, MSArteryPush><1180.988><210.5813><-49.62421~-0.8492126, 
+AmbientSounds: OMNI><SO_IND-NoiseMech.ogg><651.9946><604.915><0.0326087><0.1, OMNI><SO_WAT-ProperDrips.ogg><827.9034><530.9074><0.2738031><1, 
+FadePalette: 10, 0.6086956, 0.6086956, 0.6086956

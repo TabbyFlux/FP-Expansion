@@ -1,0 +1,8 @@
+Template: SS_SettingsTemplate_Lympathic
+RainIntensity: 0
+RumbleIntensity: 0
+RandomItemDensity: 0.1056048
+RandomItemSpearChance: 0.05500163
+Effects: SilenceWater-1-272.6008-69.03595, 
+PlacedObjects: LightFixture><1408.839><308.2499><RedSubmersible~-0.8216553~317.6266~0, LightFixture><202.7145><303.3688><RedSubmersible~-315.1084~189.5641~0, LightFixture><1998.38><276.3397><RedSubmersible~310.2635~325.0968~0, LightFixture><4405.811><341.2966><RedSubmersible~6.115051~238.1211~0, LightFixture><3568.29><256.6867><RedSubmersible~-230.267~247.7258~46, LightFixture><3046.448><388.4473><RedSubmersible~289.4534~192.7657~0, 
+FadePalette: 10, 0.4782609, 0.5434783, 0.6195652, 0.6630435, 0.7065217

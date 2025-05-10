@@ -1,0 +1,10 @@
+Template: SS_SettingsTemplate_Lympathic
+WaveLength: 1
+WaveAmplitude: 0
+SecondWaveLength: 0
+SecondWaveAmplitude: 0
+EffectColorA: 18
+Effects: Fog-0.4782609-17-128, SilenceWater-1-276.1344-20.28124, 
+PlacedObjects: LightFixture><433.8926><1986.61><RedLight~17.32051~-10~0, LightFixture><706.4158><100.5277><RedSubmersible~17.32051~-10~0, 
+AmbientSounds: OMNI><SO_WAT-ProperDrips.ogg><827.2994><531.3402><0.5760869><1, OMNI><SO_WAT-MoreDrips.ogg><653.3913><532.6282><0.6304348><1, SPOT><SO_SFX-Kepler.ogg><80.5956><477.7124><0.1847826><1.041759><31.16425><1886.865><257.6447><-76.35535><0><1, SPOT><AM_RAIN-Rumbles.ogg><254.4857><475.3205><0.3913043><1><8.033188><1890.249><296.6447><-137.3553><0><1, 
+FadePalette: 17, 0.2826087, 0.2826087, 0.2826087
