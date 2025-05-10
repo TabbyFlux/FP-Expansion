@@ -1,0 +1,3 @@
+0fpexpansion-name|Five Pebbles Expansion (Beta)
+fpexpansion-description|Una expansión para la región de los Cinco Guijarros, que añade el Sistema Linfático, la Corteza Primaria, los Raíles del Sistema Lineal y mucho más.
+Five Pebbles (Lymphatic System)|Cinco Guijarros (Sistema linfático)

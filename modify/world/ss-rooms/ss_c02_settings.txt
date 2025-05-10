@@ -1,0 +1,3 @@
+[MERGE]
+PlacedObjects: ExitSymbolHidden><909.6692><1610.882><, 
+[ENDMERGE]

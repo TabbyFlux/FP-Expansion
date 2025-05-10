@@ -1,0 +1,8 @@
+[MERGE]
+Subregion: Five Pebbles (Lymphatic System)
+Subregion: Five Pebbles (Primary Cortex)
+Subregion: Five Pebbles (Linear Systems Rail)
+Subregion: Five Pebbles (Maintenance Shafts)
+Subregion: Five Pebbles (Auxiliary Harmonic Transform Array)
+Room Setting Templates: Lympathic, Linear
+[ENDMERGE]

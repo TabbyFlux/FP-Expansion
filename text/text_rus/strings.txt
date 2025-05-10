@@ -1,0 +1,5 @@
+0fpexpansion-name|Five Pebbles Expansion (Beta)
+fpexpansion-description|(ВНИМАНИЕ! РАСШИРЕНИЕ НАХОДИТСЯ В РАЗРАБОТКЕ!) Расширение для региона Пять Галек, добавляющее Лимфатическую систему, Первичную кору, Рельсы линейных систем и прочее.<LINE>Мод поддерживает все языки, доступные в игре.<LINE>Обязательно свяжитесь со мной, если вы нашли какие-нибудь проблемы - мой дискорд: itstabby<LINE>БЛАГОДАРНОСТИ:<LINE>Тестирование - Traso, Mattomo
+Five Pebbles (Lymphatic System)|Пять Галек (Лимфатическая система)
+Five Pebbles (Maintenance Shafts)|Пять Галек (Шахты техобслуживания)
+Five Pebbles (Auxiliary Harmonic Transform Array)|Пять Галек (Массив вспомогательных гармонических преобразований)
