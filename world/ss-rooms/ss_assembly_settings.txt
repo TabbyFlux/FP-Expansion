@@ -3,6 +3,8 @@ DangerType: None
 Clouds: 1
 Grime: 0
 BkgDroneVolume: 0
+RandomItemDensity: 0.1056044
+RandomItemSpearChance: 0.05306874
 Palette: 14
 EffectColorA: 18
 EffectColorB: 12
