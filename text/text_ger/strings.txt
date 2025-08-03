@@ -1,3 +1,3 @@
-0fpexpansion-name|Five Pebbles Expansion (Beta)
+0fpexpansion-name|Five Pebbles Expansion
 fpexpansion-description|Eine Erweiterung für die Region der Fünf Kiesel, die das Lymphsystem, den Hauptkortex, die Schienen des linearen Systems und mehr hinzufügt.
 Five Pebbles (Lymphatic System)|Fünf Kiesel (Lymphsystem)

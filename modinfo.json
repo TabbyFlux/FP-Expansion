@@ -1,10 +1,10 @@
 {
 	"id": "fpexpansion",
-	"name": "Five Pebbles Expansion (Beta)",
+	"name": "Five Pebbles Expansion",
 	"version": "0.2.0",
 	"authors": "TabbyFlux (formerly known as ItsTabby) - Project Lead, Original Concept, Level Designer<LINE><LINE>BETA TESTERS<LINE><LINE>Traso<LINE>Mattomo",
 	"hide_version": false,
-	"description": "(WARNING! Expansion under development!) Expansion for the Five Pebbles region, adding the Lymphatic System, Primary Cortex, Linear System Rails and more.<LINE>The mod supports all languages available in the game.<LINE>Be sure to contact me if you find any problems - my discord: itstabby<LINE>CREDITS:<LINE>Playtesters - Traso, Mattomo",
+	"description": "Expansion for the Five Pebbles region, adding the Lymphatic System, Primary Cortex, Linear System Rails and more.<LINE>The mod supports all languages available in the game.<LINE>Be sure to contact me if you find any problems - my discord: itstabby<LINE>CREDITS:<LINE>Playtesters - Traso, Mattomo",
 	"requirements": ["moreslugcats", "regionkit", "pom", "crs"],
 	"requirements_names": ["More Slugcats Expansion", "RegionKit", "POM", "Custom Region Support"],
 	"checksum_override_version": false,

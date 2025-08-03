@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: None
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0
+RandomItemDensity: 0.1056048
+RandomItemSpearChance: 0.05500163
+Palette: 12
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.06379932-19.32813-73.75468, 
+PlacedObjects: LightFixture><2813.756><618.4623><RedLight~83.48608~14.54529~100, LightFixture><2269.18><352.3361><RedLight~32.7948~39.62421~42, SuperStructureFuses><1771.077><309.4948><121.6398~65.07898, LightFixture><1694.717><368.8794><RedLight~-19.4975~24.15002~79, LightFixture><980.3327><685.1841><RedLight~-336.9858~-98.04297~42, LightFixture><515.8093><352.6786><RedLight~-94.73419~36.42261~43, LightFixture><-102.3448><387.9572><RedLight~-76.0584~34.82193~16, SuperStructureFuses><1008.123><308.267><106.6992~46.40314, 
+AmbientSounds: OMNI><AM_WIN-StrongWnd2.ogg><438.082><586.147><0.3956007><1, OMNI><AM_IND-SuperStructure.ogg><613.7928><586.5405><0.4072007><0.7494425, SPOT><so_sfx-datastream.ogg><110.3917><453.5759><0.6056044><0.4884479><1043.79><318.3274><-71.63971><111.9166><0><0.2043981, SPOT><so_ind-turbine.ogg><109.8389><337.7479><0.505799><0.7807618><1056.043><304.4159><18.5376><166.8767><0><0.3029976, SPOT><so_sfx-data3.ogg><288.7041><454.4673><0.5000004><1.292317><1834.016><337.361><26.5415><163.1415><0><0.2043988, 
+FadePalette: 8, 0.8409903, 0.8815899, 0.9279883

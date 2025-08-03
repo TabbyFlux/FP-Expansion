@@ -1,3 +1,3 @@
-0fpexpansion-name|Five Pebbles Expansion (Beta)
+0fpexpansion-name|Five Pebbles Expansion
 fpexpansion-description|Uma expansão para a região dos Cinco Seixos, acrescentando o Sistema Linfático, o Córtex Primário, as calhas do Sistema Linear e muito mais.
 Five Pebbles (Lymphatic System)|Cinco Seixos (Sistema linfático)

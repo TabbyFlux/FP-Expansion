@@ -1,3 +1,3 @@
-0fpexpansion-name|Five Pebbles Expansion (Beta)
+0fpexpansion-name|Five Pebbles Expansion
 fpexpansion-description|Une extension pour la région des Cinq Cailloux, ajoutant le Système Lymphatique, le Cortex Primaire, les Rails du Système Linéaire, et plus encore.
 Five Pebbles (Lymphatic System)|Cinq Cailloux (Système lymphatique)
