@@ -2,7 +2,11 @@ Type: AboveCloudsView
 startAltitude: 0
 endAltitude: 10
 daySky: SS_NarrowSystems
+duskSky: SS_NarrowSystems
+nightSky: SS_NarrowSystems
 atmosphereColor: 43B7EA
 multiplycolor: 43B7EA
 cloudsCount: 0
 distantCloudsCount: 0
+
+//DistantBuilding: AssetName, X, Y, Depth, AtmoDepthAdd
