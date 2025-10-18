@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 25
+Effects: ZeroG-1-20-20, SkyAndLightBloom-0.205409-24.13046-76.42266, RoomWrap-1-281.8562-23.06328, ZeroGSpecks-0.1043986-23.59686-127.6477, 
+PlacedObjects: LightFixture><1153.728><187.9207><ZapCoilLight~-254.8121~41.75859~50, LightFixture><-198.7718><649.8938><ZapCoilLight~1.312714~-90.57263~50, 
+AmbientSounds: OMNI><so_sfx-deepstonebass.ogg><147.5889><535.4672><0.4072015><1, OMNI><so_sfx-datatones.ogg><146.7295><461.5512><0.2042031><1, 
+FadePalette: 33, 0.9014012
+BackgroundOffset: 58.00009,0
+BackgroundType: ss_encapsulatedsystems

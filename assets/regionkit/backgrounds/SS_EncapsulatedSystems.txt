@@ -1,0 +1,16 @@
+Type: AboveCloudsView
+startAltitude: 0
+endAltitude: 10
+daySky: SS_EncapsulatedSystems
+duskSky: SS_EncapsulatedSystems
+nightSky: SS_EncapsulatedSystems
+atmosphereColor: 43B7EA
+multiplycolor: 43B7EA
+cloudsCount: 0
+distantCloudsCount: 0
+
+//DistantBuilding: AssetName, X, Y, Depth, AtmoDepthAdd
+DistantBuilding: SS_EncapsulatedWalls1, 600, 0, 5, 10 : scale|13
+DistantBuilding: SS_EncapsulatedWalls1, 300, 50, 10, 50 : scale|11
+DistantBuilding: SS_EncapsulatedWalls1, 195, -100, 15, 100 : scale|9
+DistantBuilding: SS_EncapsulatedWalls1, 150, -200, 20, 150 : scale|6
