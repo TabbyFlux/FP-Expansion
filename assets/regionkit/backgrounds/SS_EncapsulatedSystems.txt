@@ -1,15 +1,20 @@
 Type: AboveCloudsView
+OffsetX: 0
+OffsetY: 0
+---------------
 startAltitude: 0
 endAltitude: 10
+cloudsStartDepth: 5
+cloudsEndDepth: 40
+distantCloudsEndDepth: 200
+cloudsCount: 0
+distantCloudsCount: 0
+startFogAltitude: 18000
+endFogAltitude: 22000
+atmosphereColor: 4C94FF
 daySky: SS_EncapsulatedSystems
 duskSky: SS_EncapsulatedSystems
 nightSky: SS_EncapsulatedSystems
-atmosphereColor: 43B7EA
-multiplycolor: 43B7EA
-cloudsCount: 0
-distantCloudsCount: 0
-
-//DistantBuilding: AssetName, X, Y, Depth, AtmoDepthAdd
 DistantBuilding: SS_EncapsulatedWalls1, 600, 0, 5, 10 : scale|13
 DistantBuilding: SS_EncapsulatedWalls1, 300, 50, 10, 50 : scale|11
 DistantBuilding: SS_EncapsulatedWalls1, 195, -100, 15, 100 : scale|9

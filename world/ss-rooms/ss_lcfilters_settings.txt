@@ -1,8 +1,9 @@
-Template: SS_SettingsTemplate_Lympathic
+Template: ss_settingstemplate_lympathic
+DangerType: Flood
 RainIntensity: 0
 RumbleIntensity: 0
 RandomItemDensity: 0.1056048
 RandomItemSpearChance: 0.05500163
-Effects: SilenceWater-1-272.6008-69.03595, 
-PlacedObjects: LightFixture><1408.839><308.2499><RedSubmersible~-0.8216553~317.6266~0, LightFixture><202.7145><303.3688><RedSubmersible~-315.1084~189.5641~0, LightFixture><1998.38><276.3397><RedSubmersible~310.2635~325.0968~0, LightFixture><4405.811><341.2966><RedSubmersible~6.115051~238.1211~0, LightFixture><3568.29><256.6867><RedSubmersible~-230.267~247.7258~46, LightFixture><3046.448><388.4473><RedSubmersible~289.4534~192.7657~0, 
+Effects: SilenceWater-1-272.6008-69.03595, WaterFluxMinLevel-0-20.92889-121.7781, WaterFluxFrequency-1-263.7141-299.4648, WaterFluxMinDelay-0.01740033-782.9008-619.6211, WaterFluxMaxLevel-1-270.6508-122.3117, WaterFluxMaxDelay-0.03479933-780.7664-564.6609, WaterFluxSpeed-0.5045936-780.2328-510.2344, 
+PlacedObjects: LightFixture><1408.839><308.2499><RedSubmersible~-0.8216553~317.6266~0, LightFixture><202.7145><303.3688><RedSubmersible~-322.5787~50.29608~0, LightFixture><1998.38><276.3397><RedSubmersible~31.7276~171.9554~0, LightFixture><4405.811><341.2966><RedSubmersible~6.115051~238.1211~0, LightFixture><3568.29><256.6867><RedSubmersible~-230.267~247.7258~46, LightFixture><3046.448><388.4473><RedSubmersible~26.39166~112.7266~0, LightFixture><906.8191><289.2142><RedSubmersible~-265.4841~87.11404~65, AirPocket><143.1178><566.5415><581.8352~210.1383~-53.77423~-58.04297~N~-19.24847, AirPocket><2027.676><571.7045><1654.893~211.2054~140.4539~-80.45398~N~-9.110229, 
 FadePalette: 10, 0.4782609, 0.5434783, 0.6195652, 0.6630435, 0.7065217
